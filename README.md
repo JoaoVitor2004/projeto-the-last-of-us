@@ -1,15 +1,27 @@
-<h1 style="font-weight: bold;">Projeto the last of us</h1>
-<p>Um slider de imagens da serie the last of us, asim que clicar em uma das bolinhas a baixo ele troca para outra imagem, contem tambem dois icones um que vai direto pro meu github e o outro vai direto para meu linkedin, este projeto foi desenvolvido quando eu estava estudando html css e javascript</p>
+![capa projeto the last of us](https://github.com/JoaoVitor2004/projeto-the-last-of-us/assets/143558833/1a011b92-a6db-42b7-a4dd-72f7b0c28826)
 
-<img src="./src/imagens/captura de tela.PNG" alt="imagem do site">
+# Landing page the last of us
 
-<h2>⛏ Ferramenta e tecnologias utilizadas</h2>
+## 🎯 Introdução
 
-- Visual studio code
-  
-    - HTML
-    - CSS
-    - JAVASCRIPT
- 
- <br>
-🔗 Link para visitar o <a href="https://joaovitor2004.github.io/projeto-the-last-of-us/">site</a>
+Este projeto tem o objetivo de informar o usuario sobre a serie the last of us da HBO MAX, possui um slider trocando de imagem quando é clicado em um dos botões.
+
+### ⚙ Guia de instalação
+
+Para acessar este projeto basta ter um navegador instalado em sua maquina acessando apartir deste <a href="https://JoaoVitor2004.github.io/projeto-the-last-of-us">endereço</a>
+
+### 🛠 Tecnologias utilizadas
+
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo do HTML">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo do CSS">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo do JAVASCIPT">
+</div>
+
+### 👨‍💻 Autores / Colaboradores
+
+- **João Vitor** - Frontend do projeto - [João Vitor](https://www.linkedin.com/in/jo%C3%A3o-vitor-souzaa/)
+
+### 📃 Licença
+
+Este projeto está sob a licença [MIT]()

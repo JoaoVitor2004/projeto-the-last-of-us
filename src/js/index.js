@@ -35,8 +35,9 @@ botoesCarrossel.forEach((botao, indice) => {
     })
 })
 
-function mostrarImagemDeFundo(indice) {
-    imagens[indice].classList.add('ativa');
+function desativarBotaoSelecionado() {
+    const botaoSelecionado = document.querySelector('.selecionado');
+    botaoSelecionado.classList.remove('selecionado');
 }
 
 function selecionarBotaoCarrosel(botao) {
@@ -48,7 +49,6 @@ function esconderImagemAtiva() {
     imagemAtiva.classList.remove('ativa');
 }
 
-function desativarBotaoSelecionado() {
-    const botaoSelecionado = document.querySelector('.selecionado');
-    botaoSelecionado.classList.remove('selecionado');
+function mostrarImagemDeFundo(indice) {
+    imagens[indice].classList.add('ativa');
 }
